@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728358969 source:d:\kuliah semester 3\stuktur data (kelompok)\main\main.cpp
+	<iostream>
+	"kelompok.h"
+
+1728358969 d:\kuliah semester 3\stuktur data (kelompok)\main\kelompok.h
+	<string>
+
+1728358969 source:d:\kuliah semester 3\stuktur data (kelompok)\main\kelompok.cpp
+	<iostream>
+	"kelompok.h"
+
